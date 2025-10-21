@@ -138,7 +138,5 @@ docker run -d \
 
 **Xieburouzzz**
 
-如果您对本项目感兴趣  欢迎 Star 本仓库
-
 </div>
 
