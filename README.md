@@ -121,8 +121,8 @@ docker run -d \
 
 ## 💬 联系方式
 
-- 📧 **邮箱**: luxdongzzz@gmail.com
 - 👤 **GitHub**: [@Xieburouzzz](https://github.com/Xieburouzzz)
+- 📧 **邮箱**: luxdongzzz@gmail.com
 
 ---
 
@@ -135,15 +135,15 @@ A: 本项目为闭源商业项目，不提供源代码公开。如有需要请�
 </details>
 
 <details>
-<summary><b>Q: 支持哪些数据库？</b></summary>
-
-A: 当前版本使用 SQLite 数据库，轻量且易于部署。
-</details>
-
-<details>
 <summary><b>Q: 可以定制开发吗？</b></summary>
 
 A: 支持定制开发，可根据您的需求进行功能扩展和界面定制。
+</details>
+
+<details>
+<summary><b>Q: 支持哪些数据库？</b></summary>
+
+A: 当前版本使用 SQLite 数据库，轻量且易于部署。
 </details>
 
 <details>
@@ -162,9 +162,9 @@ A: Docker 镜像为授权用户提供，请联系作者获取访问权限。
 
 ## 📄 许可证
 
-Copyright © 2025 Xieburouzzz. All rights reserved.
-
 本项目及其源代码受版权保护，未经授权不得使用、复制、修改或分发。
+
+Copyright © 2025 Xieburouzzz. All rights reserved.
 
 ---
 
