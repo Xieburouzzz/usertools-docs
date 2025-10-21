@@ -126,48 +126,6 @@ docker run -d \
 
 ---
 
-## ❓ 常见问题
-
-<details>
-<summary><b>Q: 项目开源吗？</b></summary>
-
-A: 本项目为闭源商业项目，不提供源代码公开。如有需要请联系作者洽谈授权。
-</details>
-
-<details>
-<summary><b>Q: 可以定制开发吗？</b></summary>
-
-A: 支持定制开发，可根据您的需求进行功能扩展和界面定制。
-</details>
-
-<details>
-<summary><b>Q: 支持哪些数据库？</b></summary>
-
-A: 当前版本使用 SQLite 数据库，轻量且易于部署。
-</details>
-
-<details>
-<summary><b>Q: 是否提供技术支持？</b></summary>
-
-A: 提供完整的技术支持和部署指导服务。
-</details>
-
-<details>
-<summary><b>Q: 如何获取 Docker 镜像？</b></summary>
-
-A: Docker 镜像为授权用户提供，请联系作者获取访问权限。
-</details>
-
----
-
-## 📄 许可证
-
-本项目及其源代码受版权保护，未经授权不得使用、复制、修改或分发。
-
-Copyright © 2025 Xieburouzzz. All rights reserved.
-
----
-
 ## 🌟 特别说明
 
 - 不包含任何源代码文件
