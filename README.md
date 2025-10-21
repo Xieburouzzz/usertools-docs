@@ -97,6 +97,9 @@ UserTools 是一个现代化的 Emby 用户管理系统，提供完整的用户�
 #### 管理员面板
 ![管理员面板](images/screenshots/admin-panel.png)
 
+#### 推广中心
+![推广中心](images/screenshots/invite-center.png)
+
 #### 系统设置
 ![系统设置](images/screenshots/settings.png)
 
