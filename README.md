@@ -136,9 +136,9 @@ docker run -d \
 
 <div align="center">
 
-**Built with ❤️ by Xieburouzzz**
+**Xieburouzzz**
 
-⭐ 如果您对本项目感兴趣，欢迎 Star 本仓库！
+⭐ 如果您对本项目感兴趣  欢迎 Star 本仓库
 
 </div>
 
